@@ -1,12 +1,12 @@
 [
   {
-    "name": "project1",
+    "name": "Trip Planner",
     "live": "https://trip-planner-app-e3a36d01ba96.herokuapp.com/trips",
     "git": "https://github.com/Tracy-To/Trip-Planner",
     "image": "https://i.imgur.com/bh918lC.jpeg"
   },
   {
-    "name": "project2",
+    "name": "Connect 4",
     "live": "https://fungamesconnect4.netlify.app",
     "git": "https://github.com/Tracy-To/Connect-4",
     "image": "https://i.imgur.com/DGYG0kU.jpeg"
